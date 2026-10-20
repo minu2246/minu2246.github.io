@@ -10,10 +10,13 @@ layout: about
 <br/>
 
 # 프로젝트
+제목을 누르면 자세한 내용이 펼쳐집니다.
 
 ## 진행 중
 
-### MedMap: 진단 안전망 (캡스톤 디자인)
+<details markdown="1">
+<summary style="cursor:pointer;font-weight:bold;font-size:1.1em;">MedMap: 진단 안전망 (캡스톤 디자인)</summary>
+
 * **한 줄 소개**
   * 환자의 증상과 그 변화를 기록해, 지금의 진단이 환자 상태를 충분히 설명하는지 다시 확인하게 돕는 진단 안전망입니다.
   * 병을 대신 맞히는 AI가 아니라, 진단과 환자 정보 사이에 중요한 불일치가 있을 때 다시 확인할 시점을 알려 주는 도구를 목표로 합니다. 진단은 내리지 않고, 최종 판단은 항상 의사가 합니다.
@@ -42,7 +45,11 @@ layout: about
   * 시험용 문장으로 평가한 연구용 프로토타입이며, DDXPlus 분석은 합성 데이터 결과라 실제 환자 성능이나 오진 감소를 입증하지 않습니다.
 * [GitHub 저장소](https://github.com/minu2246/MedMap)
 
-### 이웃냉장고 (NeighborFridge): 창업 동아리 프로젝트
+</details>
+
+<details markdown="1">
+<summary style="cursor:pointer;font-weight:bold;font-size:1.1em;">이웃냉장고 (NeighborFridge): 창업 동아리 프로젝트</summary>
+
 * **한 줄 소개**
   * 냉장고 속 남는 식재료를 가까운 이웃과 나누는 위치 기반 C2C 나눔·교환 앱입니다. 소비기한이 얼마 남지 않은 식재료나 만들고 남은 음식을 같은 동네 이웃과 나눔, 교환, 한끼 나눔으로 주고받을 수 있습니다.
 * **왜 필요한가**
@@ -70,9 +77,13 @@ layout: about
 * **기술**
   * Expo(React Native), TypeScript, NestJS, PostgreSQL/PostGIS, Docker, SSE 실시간 채팅
 
+</details>
+
 ## 종료
 
-### MelanoScan: 피부 병변 AI 분석 Android 앱
+<details markdown="1">
+<summary style="cursor:pointer;font-weight:bold;font-size:1.1em;">MelanoScan: 피부 병변 AI 분석 Android 앱</summary>
+
 * **한 줄 소개**
   * 피부 병변 사진으로 AI 분석을 하고, 병변 크기 변화를 기록해 추적할 수 있는 Android 앱입니다.
 * **구현한 기능**
@@ -86,6 +97,8 @@ layout: about
 * **한계**
   * AI 분석과 ABCD 보조 해석은 의료진의 확정 진단을 대신하지 않으며, 사진 조건, 조명, 초점, 병변 영역 선택 범위에 따라 결과가 달라질 수 있습니다.
 * [GitHub 저장소](https://github.com/minu2246/MelanoScan)
+
+</details>
 
 <br/>
 
