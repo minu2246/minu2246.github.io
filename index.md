@@ -1,26 +1,22 @@
 ---
-layout: about 
+layout: about
 ---
 
-# About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+# 소개
+안녕하세요, 건양대학교 의료IT공학과 3학년 김민우입니다.
+의료 데이터와 AI를 활용해 실제 현장에서 쓸 수 있는 헬스케어 서비스를 만드는 데 관심이 있습니다.
+멋있어 보이는 기능보다 근거가 있고 실제로 동작하는 기능을 만드는 것을 중요하게 생각합니다.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# 프로젝트
+* MedMap (캡스톤 프로젝트)
+  * 진단을 대신하는 AI가 아니라, 환자의 증상과 시간에 따른 변화를 기록·구조화하는 진단 안전망
+  * STT, 증상 추출, 증상 변화 추적, 타임라인, 진료 전 요약, 기록 관리 기능 개발
+* 창업 동아리 프로젝트
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# 관심 분야
+의료IT, 헬스케어, AI/ML, 의료 데이터에 관심이 있습니다.
+Python을 주로 사용하고, 알고리즘과 자료구조, 모바일 앱 개발을 공부하고 있습니다.
